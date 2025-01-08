@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h5 align="center">I'm Pendem Sathwik, pursuing a Bachelor's degree at Indian Institute of Information Technology, Sri City. I'm passionate about web development and more keen into backend technologies and system design.</h5>
+<h5 >I'm Pendem Sathwik, pursuing a Bachelor's degree at Indian Institute of Information Technology, Sri City. I'm passionate about web development and more keen into backend technologies and system design.</h5>
 <p align="left">
 </p>
 
